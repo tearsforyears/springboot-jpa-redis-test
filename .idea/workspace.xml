@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="203fb06e-53b1-4927-a71b-daecfe7c4661" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/ConfigurationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DAO/QuestionDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DAO/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/SessionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/component/RequestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/MsgController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/model/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/model/QuestionInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/demo/com/example/UserDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/demo/com/example/testRedis.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YtlYuTSfmXxT72E7q6bGFqz3Pu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserDAOTest.test">
+    <configuration name="UserDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spboottest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.com.example.UserDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDAOTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spboottest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.com.example.UserDAOTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testRedis.testJSONObj" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spboottest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.com.example.testRedis" />
+      <option name="METHOD_NAME" value="testJSONObj" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testRedis.testSerObj" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spboottest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.com.example.testRedis" />
+      <option name="METHOD_NAME" value="testSerObj" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testRedis.testSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spboottest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.com.example.testRedis" />
+      <option name="METHOD_NAME" value="testSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spboottest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDAOTest.test" />
+        <item itemvalue="JUnit.UserDAOTest" />
+        <item itemvalue="JUnit.testRedis.testSerObj" />
+        <item itemvalue="JUnit.testRedis.testJSONObj" />
+        <item itemvalue="JUnit.testRedis.testSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="203fb06e-53b1-4927-a71b-daecfe7c4661" name="Default Changelist" comment="" />
+      <created>1583769821875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583769821875</updated>
+      <workItem from="1583769827398" duration="21245000" />
+      <workItem from="1583895334209" duration="31378000" />
+      <workItem from="1584416863260" duration="4657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Assign_Data_Sources" timestamp="1584414842966">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Assign_Data_Sources/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584414842966" />
+    <state x="440" y="190" key="#Auto_Import" timestamp="1584314580475">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Auto_Import/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584314580475" />
+    <state x="440" y="190" key="#Inspections" timestamp="1583895100744">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Inspections/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1583895100744" />
+    <state x="440" y="190" key="#SQL_Dialects" timestamp="1584416525827">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#SQL_Dialects/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584416525827" />
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1584055993590">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584055993590" />
+    <state x="606" y="391" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583771216457">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="606" y="391" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1583771216457" />
+    <state width="1638" height="455" key="GridCell.Tab.0.bottom" timestamp="1584421410849">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="455" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584421410849" />
+    <state width="1638" height="182" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.949@0.23.1680.949" timestamp="1584400751778" />
+    <state width="1638" height="455" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584417253699" />
+    <state width="1638" height="451" key="GridCell.Tab.0.bottom/1680.23.1920.977/0.23.1680.1027@0.23.1680.1027" timestamp="1584058602053" />
+    <state width="1638" height="455" key="GridCell.Tab.0.center" timestamp="1584421410848">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="455" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584421410848" />
+    <state width="1638" height="182" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.949@0.23.1680.949" timestamp="1584400751776" />
+    <state width="1638" height="455" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584417253697" />
+    <state width="1638" height="451" key="GridCell.Tab.0.center/1680.23.1920.977/0.23.1680.1027@0.23.1680.1027" timestamp="1584058602051" />
+    <state width="1638" height="455" key="GridCell.Tab.0.left" timestamp="1584421410847">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="455" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584421410847" />
+    <state width="1638" height="182" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.949@0.23.1680.949" timestamp="1584400751775" />
+    <state width="1638" height="455" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584417253696" />
+    <state width="1638" height="451" key="GridCell.Tab.0.left/1680.23.1920.977/0.23.1680.1027@0.23.1680.1027" timestamp="1584058602051" />
+    <state width="1638" height="455" key="GridCell.Tab.0.right" timestamp="1584421410849">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="455" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584421410849" />
+    <state width="1638" height="182" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.949@0.23.1680.949" timestamp="1584400751777" />
+    <state width="1638" height="455" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.952@0.23.1680.952" timestamp="1584417253698" />
+    <state width="1638" height="451" key="GridCell.Tab.0.right/1680.23.1920.977/0.23.1680.1027@0.23.1680.1027" timestamp="1584058602052" />
+    <state width="1638" height="2" key="GridCell.Tab.1.bottom" timestamp="1584058522063">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.1.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584058522063" />
+    <state width="1638" height="322" key="GridCell.Tab.1.bottom/1680.23.1920.977/0.23.1680.1027@0.23.1680.1027" timestamp="1584057654820" />
+    <state width="1638" height="2" key="GridCell.Tab.1.center" timestamp="1584058522062">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.1.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584058522062" />
+    <state width="1638" height="322" key="GridCell.Tab.1.center/1680.23.1920.977/0.23.1680.1027@0.23.1680.1027" timestamp="1584057654819" />
+    <state width="1638" height="2" key="GridCell.Tab.1.left" timestamp="1584058522061">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.1.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584058522061" />
+    <state width="1638" height="322" key="GridCell.Tab.1.left/1680.23.1920.977/0.23.1680.1027@0.23.1680.1027" timestamp="1584057654818" />
+    <state width="1638" height="2" key="GridCell.Tab.1.right" timestamp="1584058522063">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.1.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584058522063" />
+    <state width="1638" height="322" key="GridCell.Tab.1.right/1680.23.1920.977/0.23.1680.1027@0.23.1680.1027" timestamp="1584057654819" />
+    <state x="428" y="267" key="IDE.errors.dialog" timestamp="1583786837480">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="428" y="267" key="IDE.errors.dialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1583786837480" />
+    <state x="517" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1584416864655">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="372" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1584416864655" />
+  </component>
+</project>
